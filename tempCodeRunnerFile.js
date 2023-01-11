@@ -1,0 +1,1 @@
+headerLeft : () => <Icon name='notifications' size={25} color={Constants.textColor}/>,
